@@ -1,0 +1,40 @@
+**Version: Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (mac64)**
+#Group:
+https://groups.google.com/g/gurobi
+#Setup:
+https://support.gurobi.com/hc/en-us/articles/360013417211-Where-do-I-place-the-Gurobi-license-file-gurobi-lic-
+#Documentation:
+https://www.gurobi.com/documentation/9.1/quickstart_mac/cs_python.html#section:Python
+
+**Key License Setup**
+https://www.gurobi.com/documentation/9.5/quickstart_mac/retrieving_a_free_academic.html#subsection:academiclicense
+https://www.gurobi.com/documentation/9.5/quickstart_mac/setting_environment_variab.html#subsection:setenvvars
+
+#Function: Callback Codes
+#Documentation:
+https://www.gurobi.com/documentation/9.5/refman/cb_codes.html#sec:CallbackCodes
+
+#Function: Adding A Cutting Plane
+#Documentation:
+https://www.gurobi.com/documentation/9.5/refman/java_cb_addcut.html
+
+#Function: Global Cut Control
+#Documentation:
+https://www.gurobi.com/documentation/9.1/refman/cuts.html
+
+**11 Approach 2 Cutting Planes Methods For Solving MIP Problems 1**
+#Instruction: https://youtu.be/_iBzN83trqA
+
+**Examples in Python**
+#Path: /Library/gurobi951/macos_universal2/examples/python
+
+#Reference: Algorithms in Gurobi
+#Documentation: https://assets.gurobi.com/pdfs/user-events/2016-frankfurt/Die-Algorithmen.pdf
+
+#Reference: The Gurobi Python Interface for Python Users
+#Documentation: https://www.gurobi.com/documentation/6.5/quickstart_mac/the_gurobi_python_interfac.html
+
+#Reference: Python API Overview (in Gurobi)
+#Documentation: https://www.gurobi.com/documentation/9.5/refman/py_python_api_overview.html
+
+

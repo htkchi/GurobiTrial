@@ -1,0 +1,20 @@
+
+Gurobi 9.5.1 (mac64[x86], Python) logging started Tue Mar  8 11:43:20 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-05-06
+
+Gurobi 9.5.1 (mac64[x86], gurobi_cl) logging started Wed Mar  9 23:17:26 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-05-06
+Using license file /Users/chihuynh/Documents/MASTER/SEM3/Master-Thesis/Implementation/GurobiTrial/gurobi.lic
+
+Gurobi 9.5.1 (mac64[x86], gurobi_cl) logging started Thu Mar 17 14:12:33 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2022-05-06
+Using license file /Library/gurobi951/gurobi.lic
